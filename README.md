@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 I’m a final year high school student interested in aerospace and engineering.<br>✈️ I love designing and building RC planes, DIY rockets, long-range drones, and guidance systems.<br>🛠️ I use Fusion 360 for CAD and enjoy learning about CFD and aerodynamics.<br>💻 Currently learning C, C++, and Python.<br>
+👋 Hi i’m a final year high school student interested in aerospace and engineering.<br>✈️ I love designing and building RC planes, DIY rockets, long-range drones, and guidance systems.<br>🛠️ I use Fusion 360 for CAD and enjoy learning about CFD and aerodynamics.<br>💻 Currently learning C, C++, and Python.<br>
 
 
 # 💻 Tech Stack:
@@ -7,10 +7,9 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=diaxxu&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=diaxxu&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=diaxxu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=diaxxu&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=diaxxu&icon=3&color=7)](https://visitcount.itsvg.in)
