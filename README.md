@@ -1,4 +1,4 @@
-# 💫 About Me:d
+# 💫 About Me:
 👋 Hi i’m a final year high school student interested in Aerospace and Mechanical Engineering.<br>✈️ I love designing and building RC planes, DIY rockets, and guidance systems.<br>🛠️ I use Fusion 360 for CAD and Ansys for CFD.<br>💻 Currently learning C, C++.<br>
 
 
